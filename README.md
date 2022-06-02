@@ -40,5 +40,7 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_snapshot"></a> [snapshot](#output\_snapshot) | n/a |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
